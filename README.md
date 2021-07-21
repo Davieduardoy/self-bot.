@@ -1,5 +1,5 @@
 # self.bot 
->>>>>>> token''''''
+>>>>>>> token:usjnajankanahbajannanbabna
 ××××××× comando!help
 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 
